@@ -1,0 +1,41 @@
+.navbar-form-custom {
+    width: 80%;
+  }
+  .navbar-nav > li {
+    padding: 50px;
+  }
+  .navbar-brand {
+    margin-right: 90px;
+  }
+  
+  .navbar-nav {
+    margin-left: 50px;
+  }
+
+ 
+.navbar-custom {
+    background-color: #113550;
+}
+.bi-person-circle {
+  color: #F2E9C2;
+}
+.perfil-btn::after {
+  color: rgba(255,255,255,.55);
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: #F2E9C2;
+}
+
+.nav-link{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
+}
+.btn-group{
+  border-radius: 50%;
+}
+button[type="button"] {
+background-color: #669B89;
+border-color: #62b499;
+
+
+}
